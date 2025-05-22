@@ -1,4 +1,4 @@
-﻿# AI控制智能香氛擴散器（實體按鍵版）
+﻿# AI控制智能香氛擴散器
 
 ## 專案簡介
 
@@ -114,12 +114,6 @@ pip install google-generativeai pyserial
 
 本專案採用MIT授權 - 詳見LICENSE文件
 
-## 聯絡方式
-
-如有任何問題或建議，請聯絡專案維護者：
-- 電子郵件：[your-email@example.com]
-- 專案問題追蹤：[GitHub Issues頁面連結]
-
 ## 用戶的潛在收益與幫助
 
 ### 收益
@@ -136,9 +130,3 @@ pip install google-generativeai pyserial
 - **情緒管理**：透過香氛與燈光調節情緒，減輕壓力
 - **環境優化**：提升工作或學習空間的專注力與效率
 - **無障礙使用**：實體按鍵便於視障或行動不便者使用
-
-## 鳴謝
-
-- Google Gemini API團隊
-- Arduino社群
-- 所有貢獻者與測試者
